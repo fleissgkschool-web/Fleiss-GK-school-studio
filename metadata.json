@@ -1,0 +1,6 @@
+{
+  "name": "FLEISS Goalkeeper Studio",
+  "description": "GK専門トレーニングメニュー無制限作成、高精度のイラスト配置タクティカルボード、GK選手個人カルテ・レーダーチャート管理、GitHub連携",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
